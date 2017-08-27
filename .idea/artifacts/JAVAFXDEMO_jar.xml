@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="JAVAFXDEMO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVAFXDEMO_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JAVAFXDEMO.jar">
+        <element id="module-output" name="JAVAFXDEMO" />
+        <element id="library" level="project" name="sqlite-jdbc-3.19.3" />
+        <element id="file-copy" path="$USER_HOME$/Dropbox/Y O L O/Camec/PVCONTROL/BETA FINAL/JAVAFXDEMO/pvcontrol.db" />
+      </element>
+    </root>
+  </artifact>
+</component>
